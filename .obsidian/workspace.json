@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "b33cda89194711c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "373c8d038d68e20f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99f7092f137eeb09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "universidad/COMPUTACION EN LA NUBE/Examen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Examen"
+            }
+          },
+          {
+            "id": "ba2d46351d9fecf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "universidad/CSS/CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS"
+            }
+          },
+          {
+            "id": "7ca613b88ae95218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "universidad/COMPUTACION EN LA NUBE/SEMANA 6-7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SEMANA 6-7"
+            }
+          },
+          {
+            "id": "2e9af3719bfa1b4b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "universidad/COMPUTACION EN LA NUBE/SEMANA_3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "SEMANA_3"
+            }
+          },
+          {
+            "id": "71f8e574e3b3329e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "universidad/COMPUTACION EN LA NUBE/SEMANA 8 MAQUINA GG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SEMANA 8 MAQUINA GG"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "031ffa14d0980531",
+    "type": "split",
+    "children": [
+      {
+        "id": "92c2336ed68c6061",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84aa2eeb5161849e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "851fd1cf4f3f3d2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dd95e6116d415451",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b52c500ebfc44235",
+    "type": "split",
+    "children": [
+      {
+        "id": "6450af420cb3c408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23dcb0ad3667d68c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6452dc154f006b64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e1d60804260d45cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "180ff76a6db96759",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "851fd1cf4f3f3d2d",
+  "lastOpenFiles": [
+    "Docker commands.md",
+    "universidad/COMPUTACION EN LA NUBE/SEMANA_3.pdf",
+    "universidad/COMPUTACION EN LA NUBE/SEMANA_2_COMANDOS_DOCKER.pdf",
+    "universidad/COMPUTACION EN LA NUBE/SEMANA 8 MAQUINA GG.md",
+    "universidad/COMPUTACION EN LA NUBE/SEMANA_1.pdf",
+    "universidad/COMPUTACION EN LA NUBE/SUBIR IMAGEN A DOCKERHUB.md",
+    "universidad/COMPUTACION EN LA NUBE/SEMANA 6-7.md",
+    "DOMLOADED.md",
+    "universidad/CSS/CSS.md",
+    "JS",
+    "universidad/COMPUTACION EN LA NUBE/Examen.md",
+    "universidad/COMPUTACION EN LA NUBE/AZURE REGISTRY.md",
+    "universidad/COMPUTACION EN LA NUBE/SEMANA 6-7",
+    "universidad/Pasted image 20250701185812.png"
+  ]
+}
