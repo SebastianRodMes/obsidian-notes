@@ -8,75 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99f7092f137eeb09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "universidad/COMPUTACION EN LA NUBE/Examen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Examen"
-            }
-          },
-          {
-            "id": "ba2d46351d9fecf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "universidad/CSS/CSS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSS"
-            }
-          },
-          {
-            "id": "7ca613b88ae95218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "universidad/COMPUTACION EN LA NUBE/SEMANA 6-7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SEMANA 6-7"
-            }
-          },
-          {
-            "id": "2e9af3719bfa1b4b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "universidad/COMPUTACION EN LA NUBE/SEMANA_3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "SEMANA_3"
-            }
-          },
-          {
             "id": "71f8e574e3b3329e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/COMPUTACION EN LA NUBE/SEMANA 8 MAQUINA GG.md",
+                "file": "universidad/COMPUTACION EN LA NUBE/SEMANA 9 KUBERNETES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SEMANA 8 MAQUINA GG"
+              "title": "SEMANA 9 KUBERNETES"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b52c500ebfc44235",
@@ -221,21 +166,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "851fd1cf4f3f3d2d",
+  "active": "71f8e574e3b3329e",
   "lastOpenFiles": [
-    "Docker commands.md",
-    "universidad/COMPUTACION EN LA NUBE/SEMANA_3.pdf",
+    "universidad/Pasted image 20250717135941.png",
+    "universidad/COMPUTACION EN LA NUBE/SEMANA 9 KUBERNETES.md",
+    "universidad/COMPUTACION EN LA NUBE/SEMANA_1.pdf",
+    "SEMANA 9.md",
+    "Untitled.md",
     "universidad/COMPUTACION EN LA NUBE/SEMANA_2_COMANDOS_DOCKER.pdf",
     "universidad/COMPUTACION EN LA NUBE/SEMANA 8 MAQUINA GG.md",
-    "universidad/COMPUTACION EN LA NUBE/SEMANA_1.pdf",
     "universidad/COMPUTACION EN LA NUBE/SUBIR IMAGEN A DOCKERHUB.md",
+    "universidad/COMPUTACION EN LA NUBE/SEMANA_4_INTRODUCCION_A_MICROSOFT_AZURE.pdf",
     "universidad/COMPUTACION EN LA NUBE/SEMANA 6-7.md",
+    "universidad/COMPUTACION EN LA NUBE/AZURE REGISTRY.md",
+    "universidad/PROYECTO INTEGRADOR l/INSTALACION DEL EN EL PROYECTO.md",
+    "universidad/NODE JS/JS en node.md",
+    "universidad/EXPRESSJS/PROJECT SETUP.md",
+    "Docker commands.md",
+    "universidad/imgs/Screenshot 2025-07-02 192826.png",
+    "universidad/imgs/Screenshot 2025-07-02 184926.png",
+    "universidad/imgs/Pasted image 20250702193238.png",
+    "universidad/imgs/Pasted image 20250701194105.png",
+    "universidad/imgs/Pasted image 20250702192946.png",
+    "universidad/imgs/Pasted image 20250701192834.png",
+    "universidad/imgs/Pasted image 20250701192341.png",
+    "universidad/imgs/Pasted image 20250701185812.png",
+    "universidad/imgs",
+    "universidad/Pasted image 20250711175526.png",
+    "universidad/PROYECTO INTEGRADOR l",
+    "universidad/NODE JS",
+    "universidad/EXPRESSJS",
+    "universidad/COMPUTACION EN LA NUBE/SEMANA_3.pdf",
     "DOMLOADED.md",
     "universidad/CSS/CSS.md",
     "JS",
     "universidad/COMPUTACION EN LA NUBE/Examen.md",
-    "universidad/COMPUTACION EN LA NUBE/AZURE REGISTRY.md",
-    "universidad/COMPUTACION EN LA NUBE/SEMANA 6-7",
-    "universidad/Pasted image 20250701185812.png"
+    "universidad/COMPUTACION EN LA NUBE/SEMANA 6-7"
   ]
 }
