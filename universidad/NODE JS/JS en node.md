@@ -81,3 +81,77 @@ const title = require('./module/myModule')
 console.log(title)
 resultado: sebas.com
 Nota: ahi se puede almacenar cualquier tipo de variable y multiples variables.
+
+
+
+carpeta math
+
+archivo index.js 
+function add (x, y){
+
+    return x + y
+
+}
+
+function subtract (x, y){
+
+    return x - y
+
+}
+
+function multiply (x, y){
+
+    return x * y
+
+}
+
+  
+
+function divide (x, y){
+
+    return x / y
+
+}
+
+module.exports = {
+
+    add,
+
+    subtract,
+
+    multiply,
+
+    divide
+
+}
+esto lo guarda digamos en module y luego aca en 
+main.js 
+const math = require('./math/index')
+
+console.log(math.add(2,2)) accedemos a el 
+
+# MODULO OS, para el manejo de cosos del sistema operativo. 
+
+const os = require('os')
+
+/* console.log(os.userInfo())
+
+console.log(os.uptime())
+
+console.log(os.platform())
+
+console.log(os.totalmem())
+
+console.log(os.freemem()) */
+
+console.table({
+
+    os: os.platform(),
+
+    version: os.release(),
+
+    totalMemory: os.totalmem()
+
+  
+
+})

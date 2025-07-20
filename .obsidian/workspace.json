@@ -13,15 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/COMPUTACION EN LA NUBE/SEMANA 9 KUBERNETES.md",
+                "file": "universidad/Docker commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SEMANA 9 KUBERNETES"
+              "title": "Docker commands"
+            }
+          },
+          {
+            "id": "4a1e307ec7092db7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imgs/Pasted image 20250710232749.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250710232749"
+            }
+          },
+          {
+            "id": "18d13ac487ba2279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/Guia basica para entender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guia basica para entender"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b52c500ebfc44235",
@@ -166,21 +192,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71f8e574e3b3329e",
+  "active": "18d13ac487ba2279",
   "lastOpenFiles": [
-    "universidad/Pasted image 20250717135941.png",
+    "universidad/WEB ll/SEMANA_3_REACT.pdf",
+    "REACT/Guia basica para entender.md",
+    "REACT",
+    "universidad/WEB ll/SEMANA_2_USANDO_API_DE_PYTHON_EN_JS.pdf",
+    "universidad/WEB ll/PRACTICA CARTA DE RICK.md",
+    "universidad/WEB ll/Configuring express js with MongoDB.md",
+    "universidad/WEB ll/COMO CONSUMIR UNA API CON FETCH.md",
+    "universidad/WEB ll/EXPRESS JS Y POSTGRESQL.md",
+    "imgs/Pasted image 20250710232502.png",
+    "imgs/Pasted image 20250710232749.png",
+    "universidad/Docker commands.md",
+    "imgs",
+    "universidad/PROYECTO INTEGRADOR l/INSTALACION DEL EN EL PROYECTO.md",
+    "universidad/NODE JS/JS en node.md",
     "universidad/COMPUTACION EN LA NUBE/SEMANA 9 KUBERNETES.md",
+    "imgs/Pasted image 20250717135941.png",
     "universidad/COMPUTACION EN LA NUBE/SEMANA_1.pdf",
     "SEMANA 9.md",
-    "Untitled.md",
     "universidad/COMPUTACION EN LA NUBE/SEMANA_2_COMANDOS_DOCKER.pdf",
     "universidad/COMPUTACION EN LA NUBE/SEMANA 8 MAQUINA GG.md",
     "universidad/COMPUTACION EN LA NUBE/SUBIR IMAGEN A DOCKERHUB.md",
     "universidad/COMPUTACION EN LA NUBE/SEMANA_4_INTRODUCCION_A_MICROSOFT_AZURE.pdf",
     "universidad/COMPUTACION EN LA NUBE/SEMANA 6-7.md",
     "universidad/COMPUTACION EN LA NUBE/AZURE REGISTRY.md",
-    "universidad/PROYECTO INTEGRADOR l/INSTALACION DEL EN EL PROYECTO.md",
-    "universidad/NODE JS/JS en node.md",
     "universidad/EXPRESSJS/PROJECT SETUP.md",
     "Docker commands.md",
     "universidad/imgs/Screenshot 2025-07-02 192826.png",
@@ -190,17 +227,12 @@
     "universidad/imgs/Pasted image 20250702192946.png",
     "universidad/imgs/Pasted image 20250701192834.png",
     "universidad/imgs/Pasted image 20250701192341.png",
-    "universidad/imgs/Pasted image 20250701185812.png",
     "universidad/imgs",
-    "universidad/Pasted image 20250711175526.png",
     "universidad/PROYECTO INTEGRADOR l",
     "universidad/NODE JS",
     "universidad/EXPRESSJS",
-    "universidad/COMPUTACION EN LA NUBE/SEMANA_3.pdf",
     "DOMLOADED.md",
     "universidad/CSS/CSS.md",
-    "JS",
-    "universidad/COMPUTACION EN LA NUBE/Examen.md",
-    "universidad/COMPUTACION EN LA NUBE/SEMANA 6-7"
+    "universidad/COMPUTACION EN LA NUBE/Examen.md"
   ]
 }

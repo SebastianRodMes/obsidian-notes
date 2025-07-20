@@ -120,7 +120,7 @@ docker run -d -p 80:80 nginx
 
 # Ejemplo 2: Ubuntu interactivo
 docker run -it ubuntu:20.04 bash
-# -it = interactive + terminal
+# -it = interactive + terminaldock
 # ubuntu:20.04 = imagen con tag específico
 # bash = comando a ejecutar dentro del contenedor
 

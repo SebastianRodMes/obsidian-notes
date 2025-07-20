@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c26f36193589494d",
+        "id": "8f4e17e8d6fad3eb",
         "type": "tabs",
         "children": [
           {
-            "id": "13184fcee724b027",
+            "id": "482ef4a1e7a13aef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -168,11 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b192a6fc0999fcd",
+  "active": "482ef4a1e7a13aef",
   "lastOpenFiles": [
+    "Pasted image 20250717135941.png",
+    "PROYECTO INTEGRADOR l/INSTALACION DEL EN EL PROYECTO.md",
+    "COMPUTACION EN LA NUBE/SEMANA 9 KUBERNETES.md",
+    "Docker commands.md",
+    "DOMLOADED.md",
+    "NODE JS/JS en node.md",
     "COMPUTACION EN LA NUBE/SEMANA 8 MAQUINA GG.md",
     "COMPUTACION EN LA NUBE/SEMANA 6-7.md",
-    "NODE JS/JS en node.md",
     "Untitled",
     "CSS/CSS.md",
     "COMPUTACION EN LA NUBE/SUBIR IMAGEN A DOCKERHUB.md",
