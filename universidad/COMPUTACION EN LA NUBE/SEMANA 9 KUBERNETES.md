@@ -367,7 +367,38 @@ Step 05 - Install mini-Kube
 	
 	sudo apt-get -y install podman
 		
-	minikube start 
+	## Add your user to the docker group:
+
+bash
+
+```bash
+sudo usermod -aG docker $USER
+```
+
+## Apply the group changes:
+
+bash
+
+```bash
+newgrp docker
+```
+
+## Verify Docker works:
+
+bash
+
+```bash
+docker --version
+docker ps
+```
+
+## Start minikube:
+
+bash
+
+```bash
+minikube start
+```
 	
 	
 	- To see minikube status 
@@ -378,13 +409,14 @@ Step 05 - Install mini-Kube
 	- To create alias of last command
 	
 		alias kubectl="minikube kubectl --"
-
+![[Pasted image 20250721173850.png]]
 
 Step 06 - Deploy Example application
-
+	sudo snap install kubectl --classic
+	
 	kubectl create deployment hello-minikube --image=kicbase/echo-server:1.0
 	
-	kubectl expose deployment hello-minikube --type=NodePort --port=8080 --external-ip
+	kubectl expose deployment hello-minikube --type=NodePort --port=8080
 	
 	kubectl get services hello-minikube
 
@@ -424,7 +456,8 @@ Step 07 - Install NgInx
 	
 	sudo apt install nginx
 
-	sudo ufw allow 80
+	y
+	
 	
 	
 Step 08 - Configuring Inbound rule of your virtual machine
