@@ -1,4 +1,4 @@
-======================================================================================
+
 Centro....: Universidad Técnica Nacional
 Sede......: Pacífico
 Carrera...: Tecnologías de Información
@@ -6,8 +6,8 @@ Curso.....: ITI-522 - Computación en la Nube
 Periodo...: 2-2025
 Documento.: Tratando de crear Kubernetes
 Profesor..: Jorge Ruiz (york)
-Estudiante:  
-======================================================================================
+Estudiante:  Sebastian Rodriguez Mesen
+
 
 Step 01 - Create 3 local virtual machine
 
@@ -21,7 +21,7 @@ Step 01 - Create 3 local virtual machine
 	              SSH Server
 				  
 	The nodes name is:
-[[Pasted image 20250717135941.png]]
+![[Pasted image 20250717135941.png]]
 
 		k8s-master			10.236.2.133/24
 		k8s-worker-1		10.236.2.138/24
@@ -171,8 +171,8 @@ Step 08 - Init kubernet service (only in master configuration)
 			
 			Then you can join any number of worker nodes by running the following on each as root:
 
-			kubeadm join k8s-master.demoyork.local:6443 --token lwhfbh.vnono9op2echay13 \
-				--discovery-token-ca-cert-hash sha256:0adc8cae0bfca108c9980eaebe502b7267fa953d2aef6a991e01e279c60d2bbc
+			kubeadm join k8s-master.sk.local:6443 --token x01hna.bsg1luau553v3v8c \
+        --discovery-token-ca-cert-hash sha256:e3c7ab7a1da14d3dd15a9027270b2285341a14977f54c74011c4e74267325937
 
 		Copy this code to bind each node with the server, step 9
 	
@@ -216,7 +216,8 @@ Step 09 - Init kubernet nodes (only in node configuration)
 
 	- Remember use the token and discovery-token-ca-cert-hash generated in step 08
 	
-	sudo kubeadm join k8s-master.demoyork.local:6443 --token lwhfbh.vnono9op2echay13 --discovery-token-ca-cert-hash sha256:0adc8cae0bfca108c9980eaebe502b7267fa953d2aef6a991e01e279c60d2bbc
+	sudosudo kubeadm join k8s-master.sk.local:6443 --token x01hna.bsg1luau553v3v8c \
+        --discovery-token-ca-cert-hash sha256:e3c7ab7a1da14d3dd15a9027270b2285341a14977f54c74011c4e74267325937
 
 
 Step 10 - Deploy application
@@ -299,7 +300,9 @@ Step 11 - Deploy application in multiple Instances
 	
 	
 	kubectl describe deployment/apidemo01
-	
+
+
+![[Pasted image 20250722141124.png]]
 
 
 
