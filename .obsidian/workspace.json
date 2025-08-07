@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a1e307ec7092db7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imgs/Pasted image 20250710232749.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250710232749"
-            }
-          },
-          {
-            "id": "18d13ac487ba2279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCKER/Docker commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker commands"
-            }
-          },
-          {
             "id": "6242e9b75bfe4b07",
             "type": "leaf",
             "state": {
@@ -48,35 +22,71 @@
             }
           },
           {
-            "id": "7a206dff0f5a8b59",
+            "id": "7db0d4c1be9fe94f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "universidad/COMPUTACION EN LA NUBE/SEMANA 9 KUBERNETES.md",
-                "mode": "source",
-                "source": false
+                "file": "imgs/Pasted image 20250724124639.png"
               },
-              "icon": "lucide-file",
-              "title": "SEMANA 9 KUBERNETES"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250724124639"
             }
           },
           {
-            "id": "909d7c9d85eaa3b1",
+            "id": "8afb692c16446337",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imgs/Pasted image 20250724124730.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250724124730"
+            }
+          },
+          {
+            "id": "6847b1bf5c8b33c2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "DOCKER/Pasted image 20250728195242.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250728195242"
+            }
+          },
+          {
+            "id": "b4846356aad85deb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCKER/BAJAR IMAGEN DE DOCKERHUB.md",
+                "file": "AZURE/notas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BAJAR IMAGEN DE DOCKERHUB"
+              "title": "notas"
+            }
+          },
+          {
+            "id": "fa7999330b3c223b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "universidad/COMPUTACION EN LA NUBE/Digita Ocena/Carga de API-Rest con express JS, para Docker Container, usando apps en Digital Ocean, usando MongoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carga de API-Rest con express JS, para Docker Container, usando apps en Digital Ocean, usando MongoDB"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "universidad/EXPRESSJS/API-REST CON EXPRESS JS-POSTGRE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for API-REST CON EXPRESS JS-POSTGRE"
             }
           },
           {
@@ -207,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -220,21 +231,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6242e9b75bfe4b07",
+  "active": "84aa2eeb5161849e",
   "lastOpenFiles": [
-    "Pasted image 20250722162333.png",
-    "Pasted image 20250722162306.png",
-    "universidad/COMPUTACION EN LA NUBE/SEMANA 9 KUBERNETES.md",
-    "universidad/COMPUTACION EN LA NUBE/TAREA.md",
-    "Pasted image 20250722160226.png",
-    "Pasted image 20250722141124.png",
-    "DOCKER/BAJAR IMAGEN DE DOCKERHUB.md",
-    "imgs/Pasted image 20250717135941.png",
-    "Pasted image 20250722135137.png",
+    "universidad/COMPUTACION EN LA NUBE/Digita Ocena/ArticleExpress 1",
+    "universidad/COMPUTACION EN LA NUBE/Digita Ocena/ArticleExpress",
+    "universidad/COMPUTACION EN LA NUBE/Digita Ocena/Guía paso a paso para la creación de una cuenta con Digital Ocean y crear una aplicación sin servidor desde una imagen preconfigurada en Docker Hub..md",
+    "universidad/COMPUTACION EN LA NUBE/Digita Ocena/Carga de API-Rest con express JS, para Docker Container, usando apps en Digital Ocean, usando MongoDB.md",
+    "universidad/COMPUTACION EN LA NUBE/Docker Compose.md",
+    "universidad/COMPUTACION EN LA NUBE/Digita Ocena",
+    "universidad/Untitled",
+    "universidad/COMPUTACION EN LA NUBE/Untitled.md",
+    "universidad/COMPUTACION EN LA NUBE/API con conexion a postgre mediante variables de entorno.md",
     "DOCKER/SUBIR PROYECTO A DOCKERHUB.md",
+    "DOCKER/BAJAR IMAGEN DE DOCKERHUB.md",
     "DOCKER/Docker commands.md",
-    "universidad/COMPUTACION EN LA NUBE/SUBIR IMAGEN A DOCKERHUB.md",
+    "DOCKER/Pasted image 20250728195242.png",
+    "COMANDOS PARA VER HISTORIAL.md",
+    "AZURE/notas.md",
+    "GitHub  Comandos",
+    "universidad/REACT/NOTAS.md",
+    "AZURE",
+    "universidad/REACT/notas 1.md",
+    "universidad/REACT/Untitled.md",
+    "universidad/REACT",
+    "imgs/Pasted image 20250724124730.png",
+    "imgs/Pasted image 20250724124639.png",
+    "universidad/COMPUTACION EN LA NUBE/TAREA.md",
+    "imgs/Pasted image 20250728194436.png",
+    "imgs/Pasted image 20250728194423.png",
     "universidad/COMPUTACION EN LA NUBE/SEMANA 8 MAQUINA GG.md",
+    "imgs/Pasted image 20250728185413.png",
+    "imgs/Pasted image 20250728184506.png",
+    "imgs/Pasted image 20250724124732.png",
+    "universidad/EXPRESSJS/API-REST CON EXPRESS JS-POSTGRE.md",
+    "imgs/Pasted image 20250710232749.png",
+    "imgs/Pasted image 20250722211448.png",
+    "universidad/EXPRESSJS/PROJECT SETUP.md",
+    "universidad/COMPUTACION EN LA NUBE/SEMANA 9 KUBERNETES.md",
+    "universidad/COMPUTACION EN LA NUBE/SUBIR IMAGEN A DOCKERHUB.md",
     "universidad/COMPUTACION EN LA NUBE/SEMANA 6-7.md",
     "universidad/COMPUTACION EN LA NUBE/Examen.md",
     "REACT/Guia basica para entender.md",
@@ -243,27 +277,7 @@
     "universidad/COMPUTACION EN LA NUBE/SEMANA_3.pdf",
     "universidad/COMPUTACION EN LA NUBE/SEMANA_4_INTRODUCCION_A_MICROSOFT_AZURE.pdf",
     "DOCKER.md",
-    "DOCKER",
-    "imgs/Pasted image 20250721173850.png",
-    "imgs/Pasted image 20250721165539.png",
-    "imgs/Pasted image 20250721165519.png",
-    "imgs/Pasted image 20250721165410.png",
-    "imgs/Pasted image 20250711174233.png",
-    "universidad/WEB ll/SEMANA_3_REACT.pdf",
-    "REACT",
-    "universidad/WEB ll/SEMANA_2_USANDO_API_DE_PYTHON_EN_JS.pdf",
     "universidad/WEB ll/PRACTICA CARTA DE RICK.md",
-    "universidad/WEB ll/Configuring express js with MongoDB.md",
-    "universidad/WEB ll/COMO CONSUMIR UNA API CON FETCH.md",
-    "universidad/WEB ll/EXPRESS JS Y POSTGRESQL.md",
-    "imgs",
-    "universidad/PROYECTO INTEGRADOR l/INSTALACION DEL EN EL PROYECTO.md",
-    "universidad/NODE JS/JS en node.md",
-    "SEMANA 9.md",
-    "universidad/COMPUTACION EN LA NUBE/AZURE REGISTRY.md",
-    "universidad/EXPRESSJS/PROJECT SETUP.md",
-    "universidad/imgs",
-    "DOMLOADED.md",
-    "universidad/CSS/CSS.md"
+    "universidad/WEB ll/Configuring express js with MongoDB.md"
   ]
 }

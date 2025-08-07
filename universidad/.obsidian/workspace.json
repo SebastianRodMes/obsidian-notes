@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NODE JS/JS en node.md",
+                "file": "REACT/NOTAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS en node"
+              "title": "NOTAS"
             }
           }
         ]
@@ -170,15 +170,24 @@
   },
   "active": "482ef4a1e7a13aef",
   "lastOpenFiles": [
+    "WEB ll/Configuring express js with MongoDB.md",
+    "REACT/NOTAS.md",
+    "REACT",
+    "WEB ll/COMO CONSUMIR UNA API CON FETCH.md",
+    "WEB ll/PRACTICA CARTA DE RICK.md",
+    "WEB ll/SEMANA_3_REACT.pdf",
+    "WEB ll/SEMANA_2_USANDO_API_DE_PYTHON_EN_JS.pdf",
+    "WEB ll/EXPRESS JS Y POSTGRESQL.md",
+    "imgs/Pasted image 20250701185812.png",
+    "NODE JS/JS en node.md",
+    "COMPUTACION EN LA NUBE/Docker Compose.md",
     "Pasted image 20250717135941.png",
     "PROYECTO INTEGRADOR l/INSTALACION DEL EN EL PROYECTO.md",
     "COMPUTACION EN LA NUBE/SEMANA 9 KUBERNETES.md",
     "Docker commands.md",
     "DOMLOADED.md",
-    "NODE JS/JS en node.md",
     "COMPUTACION EN LA NUBE/SEMANA 8 MAQUINA GG.md",
     "COMPUTACION EN LA NUBE/SEMANA 6-7.md",
-    "Untitled",
     "CSS/CSS.md",
     "COMPUTACION EN LA NUBE/SUBIR IMAGEN A DOCKERHUB.md",
     "NODE JS.md",
@@ -192,17 +201,11 @@
     "Pasted image 20250710232502.png",
     "Pasted image 20250710231733.png",
     "EXPRESSJS",
-    "WEB ll/SEMANA_3_REACT.pdf",
     "PROYECTO INTEGRADOR l/INSTALACION DE REACT EN EL PROYECTO.md",
-    "WEB ll/SEMANA_2_USANDO_API_DE_PYTHON_EN_JS.pdf",
-    "WEB ll/PRACTICA CARTA DE RICK.md",
-    "WEB ll/COMO CONSUMIR UNA API CON FETCH.md",
     "imgs",
     "imgs/Screenshot 2025-07-02 192826.png",
     "CSS",
     "COMPUTACION EN LA NUBE/Examen.md",
-    "imgs/Pasted image 20250702193238.png",
-    "imgs/Pasted image 20250702192946.png",
     "COMPUTACION EN LA NUBE/SEMANA_1.pdf",
     "COMPUTACION EN LA NUBE/AZURE REGISTRY.md",
     "COMPUTACION EN LA NUBE/SEMANA_2_COMANDOS_DOCKER.pdf",
